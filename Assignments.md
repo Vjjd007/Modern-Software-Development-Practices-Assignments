@@ -2,11 +2,12 @@
 
 # 1 Certification Requirement
 > - AI Fluency for Students
->
-> Kindly submit the verification link here 
+>   
+> https://verify.skilljar.com/c/vn82t7dg7zmu
+> 
 > - Introduction to Agent Skills
 >
-> Kindly submit the verification link here
+> https://verify.skilljar.com/c/sopm76i39mx4
 > 
 > Kindly upload the certifications PDF in Google Drive Link
 
@@ -15,9 +16,15 @@
 >
 > - Kindly submit the GitHub Repo URL
 >
+>   https://github.com/Vjjd007/AIML_One_Credit
+>
 > - Kindly submit the Vercel Deployment URL
 >
+>   https://vijayportfolioo.vercel.app/
+>
 > - Kindly submit the GitHub Pages (Documentation) URL
+>
+>   https://github.com/Vjjd007/AIML_One_Credit/blob/master/README.md
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
