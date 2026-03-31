@@ -24,7 +24,7 @@
 >
 > - Kindly submit the GitHub Pages (Documentation) URL
 >
->   https://github.com/Vjjd007/AIML_One_Credit/blob/master/README.md
+>   https://vjjd007.github.io/AIML_One_Credit/
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
@@ -38,7 +38,7 @@
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-https://www.linkedin.com/posts/vijay-e-235a5a2a3_%F0%9D%97%A7%F0%9D%97%A5%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%A6%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9A-%F0%9D%97%A0%F0%9D%97%AC-%F0%9D%97%94%F0%9D%97%A3%F0%9D%97%A3%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%94%F0%9D%97%96%F0%9D%97%9B-ugcPost-7444426263613784065-dDsE?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAElOAckBJORnEIEPy60ZbUClxCenRr9jZAQ&utm_campaign=copy_link)
+https://www.linkedin.com/in/vijay-e-235a5a2a3/
 
 ## For Second Year Buddies
 
