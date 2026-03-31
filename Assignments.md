@@ -31,9 +31,13 @@
 >
 > - Kindly submit the GitHub Repo URL
 >
+> - https://github.com/Harikarthick28/meeko_web_app
+>
 > - https://meeko-song-player.web.app/
 >
 > - Kindly submit the GitHub Pages (Documentation) URL
+>
+> - https://harikarthick28.github.io/meeko_web_app/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
