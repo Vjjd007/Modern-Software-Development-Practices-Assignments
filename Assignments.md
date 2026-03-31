@@ -31,7 +31,7 @@
 >
 > - Kindly submit the GitHub Repo URL
 >
-> - Kindly submit the Live Application URL (Domain)
+> - https://meeko-song-player.web.app/
 >
 > - Kindly submit the GitHub Pages (Documentation) URL
 
